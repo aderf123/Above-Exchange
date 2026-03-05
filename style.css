@@ -12,10 +12,7 @@
   font-family: Arial, sans-serif;
 }
 
-body {
-  color: var(--black);
-   overflow-x: hidden;
-}
+
 
 /* HERO SECTION FULL SCREEN */
 .hero {
